@@ -1,0 +1,1 @@
+App to keep track of cool places you have visited

@@ -1,0 +1,2 @@
+json_key_file("/home/hardu/tools/googleServiceAccount/hardunelhn/pc-api-8113942144280506153-395-29cd71813075.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.hardunel.places_app") # e.g. com.krausefx.app
